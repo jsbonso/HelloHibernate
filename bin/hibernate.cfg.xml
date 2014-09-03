@@ -11,7 +11,7 @@
 
 <!-- Database Details-->
 <property name="connection.username">tutorialsdojo</property>
-<property name="connection.password">n0jin0jO</property>
+<property name="connection.password">Password123</property>
 <property name="connection.url">jdbc:oracle:thin:@localhost:1521:xe</property>
 <property name="connection.pool_size">1</property>
 <property name="hibernate.default_schema">tutorialsdojo</property>

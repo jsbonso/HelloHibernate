@@ -11,7 +11,7 @@ public class Hello implements java.io.Serializable {
 	public Hello(){		
 	}
 	
-	public Hello(String name){
+	public Hello(String message){
 		this.name = name;
 	}
 	
